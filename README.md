@@ -1,5 +1,5 @@
 # Zeal-Innovatives
 Zeal prepares cards for special occasions
 
-Frontend creation with sample video and image
-User html form
+1)Frontend creation with sample video and image
+2)User html form
