@@ -1,0 +1,62 @@
+html { 
+  background: url(Lightbulb.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   font-weight: bold;
+}
+
+h1,h2 {
+    color: black;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+	text-align:justify;
+	margin:3% 2%;
+	line-height: 30px;
+	
+}
+
+.alignleft{
+	text-align:justify;
+	float:left;
+	width:53%;
+	margin:3% 2%;
+	font-weight: bold;
+}
+
+
+.alignright{
+	float:right;
+	display:inline-block;
+	margin:0 1.5%;
+	width:30%;
+}
+
+.leftimage{
+	float:center-left;
+	margin:1% 9%;
+}
+
+.rightimage{
+	float:right;
+	margin:1% 9%;
+}
+
+img{
+	
+	width : 420;
+	height:280;
+}
+
+table,th,td {
+    border: 1px solid black;
+	 padding: 5px;
+	 margin:1% 15%;
+	 
+	
+}

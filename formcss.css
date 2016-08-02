@@ -1,0 +1,26 @@
+html { 
+  background: url(Lightbulb.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   font-weight: bold;
+}
+
+label,.userinput {
+  display: inline-block;
+  width: 250px;
+  text-align: right;
+}​
+
+
+
+form {
+    width: 300px;
+    margin: 0 20%;
+}
+.button{
+ margin: 0 20%;
+}
+
+	
